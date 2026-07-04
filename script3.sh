@@ -1,0 +1,2 @@
+echo "Current Use: "
+whoami
